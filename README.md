@@ -1,2 +1,5 @@
-# linux
-study
+# Ubuntu
+- 
+
+# CentOS
+-
